@@ -2,10 +2,10 @@ cask "atelier" do
   version "0.9.27"
   sha256 "9f918efb96f96f4e026ff290e0a0ce8f3ac4157b81a4224b6756ceb705d5013a"
 
-  url "https://github.com/97kim/atelier-releases/releases/download/v#{version}/atelier-#{version}-arm64.dmg"
+  url "https://github.com/97kim/Atelier/releases/download/v#{version}/atelier-#{version}-arm64.dmg"
   name "Atelier"
   desc "Chat tabs for Claude Code and Codex"
-  homepage "https://github.com/97kim/atelier-releases"
+  homepage "https://github.com/97kim/Atelier"
 
   livecheck do
     url :url

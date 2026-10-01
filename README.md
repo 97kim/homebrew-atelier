@@ -1,6 +1,6 @@
 # homebrew-atelier
 
-[Atelier](https://github.com/97kim/atelier-releases) Homebrew tap.
+[Atelier](https://github.com/97kim/Atelier) Homebrew tap.
 
 ```
 brew tap 97kim/atelier
