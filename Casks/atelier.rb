@@ -1,6 +1,6 @@
 cask "atelier" do
-  version "0.9.31"
-  sha256 "1e3215655b376220ab61bed24416e3ae46ce45182de292d80de5f828a476671d"
+  version "0.9.32"
+  sha256 "f1e5917a65dc89028a9dc44b74afe846e9fd6c8522535747347e3ff074181ea7"
 
   url "https://github.com/97kim/Atelier/releases/download/v#{version}/atelier-#{version}-arm64.dmg"
   name "Atelier"
