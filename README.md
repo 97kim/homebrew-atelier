@@ -3,6 +3,8 @@
 [Atelier](https://github.com/97kim/atelier-releases) Homebrew tap.
 
 ```
-brew install --cask 97kim/atelier/atelier
+brew tap 97kim/atelier
+brew trust 97kim/atelier
+brew install --cask atelier
 brew upgrade --cask atelier
 ```
